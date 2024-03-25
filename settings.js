@@ -35,7 +35,16 @@ module.exports = {
   WORK_TYPE : "public",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
+  CAPTION : '*Hay Bro 👋*
+*You're Video Download*
+
+_Enjoying This BOT_ 🎉
+
+
+
+> Full A Tutorial 👇🏾
+`WHT BOT CREATE`
+_https://youtube.com/watch?v=7DAboXpjuZI_',
   STICKER_PACK : '[ ZUSYCO ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
